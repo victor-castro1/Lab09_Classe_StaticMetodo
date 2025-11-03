@@ -94,8 +94,6 @@ public class CalculadoraImpostos {
         }
     }
 
-    // ==================== MÉTODOS PARA CONSULTAR ALÍQUOTAS ====================
-
     public static void exibirAliquotas() {
         System.out.println("\n Aliquotas de Impostos :)\n");
         System.out.println("--- IRRF (Tabela Progressiva) ---");
