@@ -1,7 +1,6 @@
 package Exercicio2;
 
 public class CalculadoraImpostos {
-
     private static final double ALIQUOTA_IRRF_FAIXA1 = 0.0;
     private static final double ALIQUOTA_IRRF_FAIXA2 = 0.075;
     private static final double ALIQUOTA_IRRF_FAIXA3 = 0.15;
